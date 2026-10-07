@@ -1,6 +1,11 @@
-h1{
-    color: black;
-}
-h2{
-    color: blue;
+:root {
+--primary: #2563eb;
+ --bg: #f8fafc;
+--text: #1e293b;
+--radius: 8px;
+--primary-dark: #1d4ed8;
+--surface: #ffffff;
+--border: #e2e8f0;
+--muted: #64748b;
+--space: 16px;
 }
